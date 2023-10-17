@@ -1,6 +1,6 @@
 {
   "name": "elasticsprout",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "AWS Elastic Beanstalk automation",
   "repository": {
     "type": "git",
