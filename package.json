@@ -1,13 +1,13 @@
 {
   "name": "elasticsprout",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "AWS Elastic Beanstalk automation",
   "repository": {
     "type": "git",
     "url": "https://github.com/promie/elasticsprout.git"
   },
   "engines": {
-    "node": ">=18.18.2"
+    "node": ">=18.0.0"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
